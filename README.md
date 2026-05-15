@@ -35,7 +35,8 @@ Excited to collaborate, contribute, and grow through open source contributions d
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanyaGarg27&show_icons=true)
+![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanyaGarg27&show_icons=true&theme=radical)
+
 
 ---
 
