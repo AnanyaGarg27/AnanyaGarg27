@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**AnanyaGarg27/AnanyaGarg27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Ananya Garg
 
-Here are some ideas to get you started:
+💻 Computer Science (AI & ML) Student  
+🚀 Contributor at GSSoC 2026  
+🌱 Currently learning Web Development, Python, and Open Source  
+✨ Passionate about coding and building impactful projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+- 🎓 B.Tech CSE (AI & ML) Student
+- 🌸 Open Source Enthusiast
+- 🐍 Learned Python Basics
+- ⚡ Exploring Web Development
+- 📚 Interested in Artificial Intelligence & Machine Learning
+- 🚀 Excited for my GSSoC 2026 journey
+
+---
+
+## 🚀 Tech Stack
+- Python
+- HTML
+- CSS
+- JavaScript
+- C++
+- Git & GitHub
+
+---
+
+## 🌸 GSSoC 2026
+Excited to collaborate, contribute, and grow through open source contributions during GSSoC 2026 🚀
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanyaGarg27&show_icons=true)
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ananya-garg-69a129385?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: gargananya7777@gmail.com
